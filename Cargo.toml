@@ -1,0 +1,12 @@
+[package]
+name = "gather-context"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "gather-context"
+path = "src/main.rs"
+
+[dependencies]
+walkdir = "2.3"
+regex = "1.5"
