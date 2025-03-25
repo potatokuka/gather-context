@@ -2,6 +2,8 @@
 
 A Rust utility that extracts function call trees from projects for easier analysis and understanding of code flow.
 
+CURRENTLY ONLY WORKING ON RUST CODE, will work on extdending it later.
+
 ## Features
 - Extracts complete function definitions and their call dependencies
 - Handles module-aware function resolution
